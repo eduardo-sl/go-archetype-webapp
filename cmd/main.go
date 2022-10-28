@@ -1,6 +1,6 @@
 package main
 
-import "github.com/eduardo-sl/go-archetype-webapp/internal/api"
+import "github.com/eduardo-sl/go-webapp-project/internal/api"
 
 func main() {
 	app := api.NewAPI()

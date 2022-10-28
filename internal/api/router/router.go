@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/eduardo-sl/go-archetype-webapp/internal/api/handlers/healthcheck"
+	"github.com/eduardo-sl/go-webapp-project/internal/api/handlers/healthcheck"
 	"github.com/labstack/echo/v4"
 )
 

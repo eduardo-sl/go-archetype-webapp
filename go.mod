@@ -1,4 +1,4 @@
-module github.com/eduardo-sl/go-archetype-webapp
+module github.com/eduardo-sl/go-webapp-project
 
 go 1.19
 

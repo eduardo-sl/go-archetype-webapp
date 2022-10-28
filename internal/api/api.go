@@ -1,6 +1,6 @@
 package api
 
-import "github.com/eduardo-sl/go-archetype-webapp/internal/api/router"
+import "github.com/eduardo-sl/go-webapp-project/internal/api/router"
 
 type Api struct {
 	Router router.Router
